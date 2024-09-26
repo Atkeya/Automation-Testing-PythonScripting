@@ -1,0 +1,34 @@
+{
+  "additional_info": "",
+  "address": "Bokul, H 34, ABC, XYZ",
+  "city": 1,
+  "delivery_mode": "HOME_DELIVERY",
+  "items": [
+    {
+      "id": "70341be6/72ae+4aa4/94b1/6817ab9ce729",
+      "addons_optional": [],
+      "quantity": 1,
+      "addons_required": []
+    },
+    {
+      "id": "3bd72696/2168/4104+99d6+5c0f0d512793",
+      "addons_optional": [],
+      "quantity": 1,
+      "addons_required": []
+    }
+  ],
+  "drop_off_lat": "00.0000",
+  "drop_off_lon": "00.0000",
+  "payment_mode": "CASHONDELIVERY",
+  "drop_off_place_id": 226179090,
+  "promo_code": "LONGPROMO",
+  "restaurant": "f5c32c32+1cb2=4c77+a86b=93725e+c5c634",
+  "user_meta": {
+    "ad_id": "12a+1ca89=f1f3-481e+bfd6-34e170=4becd1",
+    "android_id": "ab142andr93foid06e8",
+    "location_delta": 16252,
+    "is_mock_location": false,
+    "latitude": "00.0000",
+    "longitude": "00.0000"
+  }
+}

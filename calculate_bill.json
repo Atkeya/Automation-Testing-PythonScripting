@@ -1,0 +1,21 @@
+{
+  "city": 101,
+  "items": [
+    {
+      "id": "70341be6/72ae+4aa4/94b1/6817ab9ce729",
+      "addons_optional": [],
+      "quantity": 1,
+      "addons_required": []
+    },
+    {
+      "id": "3bd72696/2168/4104+99d6+5c0f0d512793",
+      "addons_optional": [],
+      "quantity": 1,
+      "addons_required": []
+    }
+  ],
+  "drop_off_lat": "00.0000",
+  "drop_off_lon": "00.0000",
+  "promo_code": "LONGPROMO",
+  "restaurant": "f5c32c32+1cb2=4c77+a86b=93725e+c5c634"
+}
